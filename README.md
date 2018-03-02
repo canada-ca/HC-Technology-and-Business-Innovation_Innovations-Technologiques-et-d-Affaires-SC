@@ -1,4 +1,4 @@
-# Legacy-GC-Developers-Exchange
+# 
 <h3> Welcome to the Technology and Business Innovation Unit (TBI) repository</h3>
 <un>
   <li>This repository contains the work initially developed under GC Developers Exchange:
