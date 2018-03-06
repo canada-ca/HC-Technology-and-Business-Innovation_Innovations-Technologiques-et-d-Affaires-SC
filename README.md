@@ -10,7 +10,7 @@ The Technology and Business Innovation Division supports the Regulatory Operatio
 
 
 
-This repository contains the work initially developed under [GC Developers Exchange](https://beta.gcdevexchange.org): exploring event sourcing and domain-driven design to re-create relational data models traditionally associated with non-reactive systems. This initial effort is in English. Once complete, translation into French for futureusers and developers.
+This repository contains the work initially developed under [GC Developers Exchange](https://beta.gcdevexchange.org): exploring event sourcing and domain-driven design to re-create relational data models traditionally associated with non-reactive systems. This initial effort is in English. Once complete, translation into French for future users and developers will be available.
 
 <b>Contact: peter.yoon@canada.ca</b>
 
